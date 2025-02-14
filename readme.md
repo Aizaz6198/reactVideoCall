@@ -74,6 +74,6 @@ npm start
 
 ## Deployment
 
-- **Frontend Hosting**: The frontend of this application is hosted on [Netlify](https://www.netlify.com/). You can access it at [Frontend url]("https://videocall001.netlify.app/).
+- **Frontend Hosting**: The frontend of this application is hosted on [Netlify](https://www.netlify.com/). You can access it at [Frontend url](https://videocall001.netlify.app/).
 
 - **Backend Hosting**: The backend of this application is hosted on [Render.com](https://render.com/). You can access it at [Backend url](https://reactvideocall-f09j.onrender.com).
