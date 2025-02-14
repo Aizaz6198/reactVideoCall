@@ -1,0 +1,20 @@
+{
+  "name": "react-video-webapp",
+  "version": "1.0.0",
+  "description": "A webApp created using react and node for video calling",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server/index.js",
+    "dev": "nodemon server/index.js"
+  },
+  "keywords": [],
+  "author": "Aizaz Ahmed",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "nodemon": "^3.0.1",
+    "serve": "^14.2.1",
+    "socket.io": "^4.0.1"
+  }
+}
