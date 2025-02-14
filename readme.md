@@ -29,13 +29,13 @@ Welcome to the React Video Call App, a robust real-time video calling solution t
 1. Clone this repository to your local machine:
 
 ```
-git clone
+git clone https://github.com/Aizaz6198/reactVideoCall.git
 ```
 
 2. Change into the project directory:
 
 ```
-cd 
+cd reactVideoCall
 ```
 
 3. Install the required dependencies:
@@ -74,6 +74,6 @@ npm start
 
 ## Deployment
 
-- **Frontend Hosting**: The frontend of this application is hosted on [Netlify](https://www.netlify.com/). You can access it at [Frontend url]().
+- **Frontend Hosting**: The frontend of this application is hosted on [Netlify](https://www.netlify.com/). You can access it at [Frontend url]("https://videocall001.netlify.app/).
 
-- **Backend Hosting**: The backend of this application is hosted on [Render.com](https://render.com/). You can access it at [Backend url]().
+- **Backend Hosting**: The backend of this application is hosted on [Render.com](https://render.com/). You can access it at [Backend url](https://reactvideocall-f09j.onrender.com).
